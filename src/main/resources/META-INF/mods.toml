@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="main"      # 必须和 @Mod 注解里的 ID 一致
+version="1.0.0"
+displayName="PlayGenshin!"
+logoFile=""
+credits="Your Name"
+authors="Your Name"
+description="自动检测并运行原神启动器的模组"
+
+[[dependencies.main]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.main]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
