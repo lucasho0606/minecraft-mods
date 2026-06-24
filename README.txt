@@ -18,3 +18,4 @@
 重要信息
 1.靠访问网站https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/pc_backup319直接下载启动器安装包
 2.下载下来的安装包存放在"版本文件夹/Temporary"文件夹下，名字类似"launcher_20260624_065517.exe"，"_20260624_065517"为时间戳
+3.必须使用forge-1.20.1-47.4.20
